@@ -1,0 +1,17 @@
+{
+    "name": "utilisateur/tasklist",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RomainNgd",
+            "email": "romain.nigond@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.4"
+    }
+}
